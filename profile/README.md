@@ -1,4 +1,4 @@
-![Hakademia Banner](assets/banner.png)
+![Hakademia Banner](assets/h_banner.png)
 
 # Hakademia
 
