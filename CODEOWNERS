@@ -1,21 +1,58 @@
-# Hakademia Organization — Code Owners
-# Official governance and community configuration
 
-# Core Team is responsible for reviewing all changes.
-* @hakademia/core-team
+# ============================================================
+# Hakademia Organization - CODEOWNERS
+# ============================================================
+#
+# This file defines the teams responsible for reviewing
+# changes to Hakademia's official organization repository.
+#
+# Maintained by: Hakademia Code Engineering Team
+# Organization: https://github.com/hakademia
+#
+# ============================================================
 
-# Organization governance and policies
-/GOVERNANCE.md @hakademia/core-team
-/CODE_OF_CONDUCT.md @hakademia/core-team
-/SECURITY.md @hakademia/core-team
-/CONTRIBUTING.md @hakademia/core-team
 
-# Organization public profile
-/profile/ @hakademia/core-team
+# ------------------------------------------------------------
+# 1. Default Ownership
+# ------------------------------------------------------------
 
-# GitHub issue and pull request templates
-/.github/ISSUE_TEMPLATE/ @hakademia/core-team
-/.github/PULL_REQUEST_TEMPLATE.md @hakademia/core-team
+# The Code Engineering Team reviews all changes by default.
+* @hakademia/code-engine
 
-# CODEOWNERS itself
-/CODEOWNERS @hakademia/core-team
+
+# ------------------------------------------------------------
+# 2. Governance and Organization Policies
+# ------------------------------------------------------------
+
+/GOVERNANCE.md @hakademia/code-engine
+/CODE_OF_CONDUCT.md @hakademia/code-engine
+/SECURITY.md @hakademia/code-engine
+/CONTRIBUTING.md @hakademia/code-engine
+
+
+# ------------------------------------------------------------
+# 3. Public Organization Profile
+# ------------------------------------------------------------
+
+/profile/ @hakademia/code-engine
+
+
+# ------------------------------------------------------------
+# 4. GitHub Community Configuration
+# ------------------------------------------------------------
+
+/.github/ISSUE_TEMPLATE/ @hakademia/code-engine
+/.github/PULL_REQUEST_TEMPLATE.md @hakademia/code-engine
+
+
+# ------------------------------------------------------------
+# 5. Code Ownership Configuration
+# ------------------------------------------------------------
+
+# Changes to this file require review from Code Engineering.
+/.github/CODEOWNERS @hakademia/code-engine
+
+
+# ============================================================
+# Hakademia - Build. Compete. Create.
+# ============================================================
