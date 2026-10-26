@@ -1,0 +1,22 @@
+
+# Hakademia Organization — Code Owners
+# Official governance and community configuration
+
+# Core Team is responsible for reviewing all changes.
+* @hakademia/core-team
+
+# Organization governance and policies
+/GOVERNANCE.md @hakademia/core-team
+/CODE_OF_CONDUCT.md @hakademia/core-team
+/SECURITY.md @hakademia/core-team
+/CONTRIBUTING.md @hakademia/core-team
+
+# Organization public profile
+/profile/ @hakademia/core-team
+
+# GitHub issue and pull request templates
+/.github/ISSUE_TEMPLATE/ @hakademia/core-team
+/.github/PULL_REQUEST_TEMPLATE.md @hakademia/core-team
+
+# CODEOWNERS itself
+/.github/CODEOWNERS @hakademia/core-team
