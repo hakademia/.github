@@ -13,7 +13,7 @@ We welcome contributions from developers of all experience levels.
 
 You can contribute by:
 
-- Developing features and fixing bugs.
+- Developing features and fixing bugs .
 - Improving documentation and examples.
 - Creating plugins, SDKs, and integrations.
 - Reporting bugs and suggesting improvements.
