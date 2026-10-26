@@ -1,4 +1,3 @@
-
 # Hakademia Organization — Code Owners
 # Official governance and community configuration
 
@@ -19,4 +18,4 @@
 /.github/PULL_REQUEST_TEMPLATE.md @hakademia/core-team
 
 # CODEOWNERS itself
-/.github/CODEOWNERS @hakademia/core-team
+/CODEOWNERS @hakademia/core-team
