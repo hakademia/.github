@@ -1,0 +1,7 @@
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: Security Vulnerability
+    url: https://github.com/hakademia
+    about: Do not disclose vulnerabilities publicly. Use the affected repository's private vulnerability reporting feature or contact security@hakademia.dev.
